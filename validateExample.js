@@ -40,4 +40,4 @@ const validateExample = (values) => {
   return errors;
 }
 
-export default validateCareTeam;
+export default validateExample;
