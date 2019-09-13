@@ -1,0 +1,21 @@
+.input {
+    width: 300px;
+    height: 44px;
+    border-radius: 5px;
+    border: solid 2px $color-grey-mid;
+    margin-bottom: 16px;
+}
+
+.errorInput {
+    border: solid 2px $color-red-orange;
+}
+
+.errorText {
+    font-family: $font-v;
+    font-size: 14px;
+    line-height: 1.71;
+    color: $color-red-orange;
+    margin-bottom: 4px;
+    margin-left: 10px;
+    width: 300px;
+}
